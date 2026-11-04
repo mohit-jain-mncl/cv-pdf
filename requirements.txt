@@ -1,0 +1,5 @@
+pypdf==6.17.0
+pypdfium2==5.13.0
+pillow==12.3.0
+requests==2.34.2
+cryptography==50.0.1
